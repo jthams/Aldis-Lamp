@@ -27,12 +27,16 @@ namespace Aldis_Lamp_BaseLogic
         }
         public static StringBuilder Translation(string plainText)
         {
+            // Convert user input to lower case to reduce the size of the dictionary
             string LplainText = plainText.ToLower();
+            // Utilize a stringbuilder to append the dictionary value and return it as a string of morse code
             StringBuilder cypherText = new StringBuilder();
+            // Parse through the given text and locate the key
             foreach (var item in LplainText)
             {
                 if (MorseAlphabet.ContainsKey(item))
                 {
+                    // Append the key value to the stringbuilder object
                     cypherText.Append(MorseAlphabet[item]);
                 }
                 else
