@@ -1,0 +1,7 @@
+C:\Users\hamel\source\Repos\Aldis_Lamp_BaseLogic\Aldis_Lamp_BaseLogic\bin\Debug\Aldis_Lamp_BaseLogic.exe.config
+C:\Users\hamel\source\Repos\Aldis_Lamp_BaseLogic\Aldis_Lamp_BaseLogic\bin\Debug\Aldis_Lamp_BaseLogic.exe
+C:\Users\hamel\source\Repos\Aldis_Lamp_BaseLogic\Aldis_Lamp_BaseLogic\bin\Debug\Aldis_Lamp_BaseLogic.pdb
+C:\Users\hamel\source\Repos\Aldis_Lamp_BaseLogic\Aldis_Lamp_BaseLogic\obj\Debug\Aldis_Lamp_BaseLogic.csprojAssemblyReference.cache
+C:\Users\hamel\source\Repos\Aldis_Lamp_BaseLogic\Aldis_Lamp_BaseLogic\obj\Debug\Aldis_Lamp_BaseLogic.csproj.CoreCompileInputs.cache
+C:\Users\hamel\source\Repos\Aldis_Lamp_BaseLogic\Aldis_Lamp_BaseLogic\obj\Debug\Aldis_Lamp_BaseLogic.exe
+C:\Users\hamel\source\Repos\Aldis_Lamp_BaseLogic\Aldis_Lamp_BaseLogic\obj\Debug\Aldis_Lamp_BaseLogic.pdb
